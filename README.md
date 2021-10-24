@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AGUYFROMAFAR
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning the moct basic "C" language. And i'm gonna start C++ soon.
-- 💞️ I’m looking to collaborate on various coding projects to vast my bounds regarding various coding languages n build various programs
-- 📫 You can reach me through my Gmail: ayushbakade@gmail.com
+- 💞️ I’m looking to collaborate on various coding projects to vast my bounds regarding various coding languages n build various programs.
 
 <!---
 AGUYFROMAFAR/AGUYFROMAFAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
