@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Dilip Bakade.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning the most basic "C" language. And i'm gonna start C++ soon.
+- 🌱 I do programming in C++, and also solve leetcode questions.
 - 💞️ I’m looking to collaborate on various coding projects to vast my bounds regarding various coding languages n build various programs.
 
 <!---
